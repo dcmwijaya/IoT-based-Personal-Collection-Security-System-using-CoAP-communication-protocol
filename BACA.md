@@ -4,5 +4,4 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # IoT-based-Personal-Collection-Security-System-using-CoAP-communication-protocol
-<strong>Proyek Tunggal: Sistem Keamanan Barang Koleksi Pribadi berbasis IoT menggunakan protokol komunikasi CoAP</strong><br><br>
 Segera Hadir...
